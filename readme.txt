@@ -1,0 +1,3 @@
+Masking 
+Encapsulation
+Unit tests
