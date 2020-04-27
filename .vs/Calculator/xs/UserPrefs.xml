@@ -1,0 +1,21 @@
+﻿<Properties StartupConfiguration="{3F1DC57C-3C29-4A54-8BE4-BA5658263BD5}|Unit Tests">
+  <MonoDevelop.Ide.ItemProperties.Calculator PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Calculator/ICalculator.cs">
+    <Files>
+      <File FileName="Calculator/Program.cs" Line="9" Column="5" />
+      <File FileName="CalculatorTest/UnitTest1.cs" />
+      <File FileName="Calculator/Test.cs" />
+      <File FileName="Calculator/Calc.cs" Line="35" Column="28" />
+      <File FileName="CalculatorTest/UnitTest2.cs" Line="1" Column="1" />
+      <File FileName="CalculatorTest/UnitTest3.cs" Line="1" Column="1" />
+      <File FileName="Calculator/ICalculator.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CalculatorTest PreferredExecutionTarget="MonoDevelop.Default" />
+</Properties>

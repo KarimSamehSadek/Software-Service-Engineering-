@@ -1,0 +1,14 @@
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Calculator
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Calculator.deps.json
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Calculator.runtimeconfig.json
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Calculator.runtimeconfig.dev.json
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Calculator.dll
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Calculator.pdb
+/Users/karim/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.0/Calculator.csprojAssemblyReference.cache
+/Users/karim/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.0/Calculator.AssemblyInfoInputs.cache
+/Users/karim/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.0/Calculator.AssemblyInfo.cs
+/Users/karim/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.0/Calculator.dll
+/Users/karim/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.0/Calculator.pdb
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Castle.Core.dll
+/Users/karim/Projects/Calculator/Calculator/bin/Debug/netcoreapp3.0/Moq.dll
+/Users/karim/Projects/Calculator/Calculator/obj/Debug/netcoreapp3.0/Calculator.csproj.CopyComplete
